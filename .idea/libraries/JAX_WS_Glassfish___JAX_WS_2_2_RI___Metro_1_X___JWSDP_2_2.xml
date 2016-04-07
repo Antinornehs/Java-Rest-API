@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+    <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/AngularJs/lib/jaxws-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
